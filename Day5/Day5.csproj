@@ -17,10 +17,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="Data/Example.txt">
+    <Content Include="example.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-        <Content Include="Data/Puzzle1.txt">
+    <Content Include="puzzle.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
